@@ -1,6 +1,6 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "author": "Chandrasekhar Prabala",
+    "author": "Daniel Ale",
     "classifications": [ "webapi" ],
     "name": "Red Onion",
     "identity": "RedOnion.Sample.CSharp",
